@@ -59,21 +59,9 @@ Creating high performance interfaces
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vin1-SF19&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vin1-SF19&theme=black-ice&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vin1-SF19&bg_color=0d1117&color=ffffff&line=ff0000&point=ffffff&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Vin1-SF19/Vin1-SF19/output/github-snake-dark.svg" />
 
 </div>
 
